@@ -35,4 +35,4 @@ let sakib = prompt("Are you sakib or not?", true);
 console.log(sakib);
 let userName = prompt("Your name?", "Alice");
 let isTeaWanted = confirm("Do you want some tea?");
-alert("Visitor:" + userName + "Tea wanted: " + isTeaWanted); // true
+alert("Visitor: " + userName + "Tea wanted: " + isTeaWanted); // true
